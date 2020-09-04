@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618323365073",
+    "firebase_url": "https://whatsapp-8cb03.firebaseio.com",
+    "project_id": "whatsapp-8cb03",
+    "storage_bucket": "whatsapp-8cb03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618323365073:android:e187a5711a39a6165c49f0",
+        "android_client_info": {
+          "package_name": "com.marcelomazon.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618323365073-bio2k4h6p8ecjrgf3708jrkivsjkb2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sbuzWsEbIFhxr75jkHPJsGIJizYwrSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618323365073-bio2k4h6p8ecjrgf3708jrkivsjkb2kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
