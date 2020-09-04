@@ -2,6 +2,6 @@
 
 App com firebase, firestore, firebase_auth, stream, chat com texto e imagens
 
-## flutter
+## Flutter
 
 dart flutter project
